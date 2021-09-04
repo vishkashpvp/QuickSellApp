@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickSell</string>
+    <string name="api_url">http://35.154.26.203/product-ids</string>
+</resources>
